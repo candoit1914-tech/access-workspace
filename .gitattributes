@@ -1,0 +1,20 @@
+# Normalize all text files to LF in the repository
+# (checkout will use the platform's native line endings — CRLF on Windows)
+* text=auto
+
+# Explicitly mark binary files so Git never treats them as text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.bmp binary
+*.webp binary
+*.pdf binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
