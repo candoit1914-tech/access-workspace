@@ -22,4 +22,4 @@ git clone https://github.com/candoit1914-tech/access-workspace.git
 
 ## License
 
-Not yet specified.
+[MIT](LICENSE) — Copyright (c) 2026 Collins Acheampong
